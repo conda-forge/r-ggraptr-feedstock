@@ -1,11 +1,11 @@
-About r-ggraptr
-===============
+About r-ggraptr-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggraptr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ggraptR
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggraptr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Intended for both technical and non-technical users to create interactive data visualizations through a web browser GUI without writing any code.
 
